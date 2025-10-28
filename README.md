@@ -3,5 +3,5 @@
 Projekt spustíte príkazom `python -m main`
 
 ### Run this to allow scripts to activate the virtual environment
-### Windows:
+Windows: 
 - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
